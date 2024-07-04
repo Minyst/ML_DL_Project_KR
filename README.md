@@ -4,7 +4,7 @@
 
 ## 📊 Project
 
-### Project 1: 신용카드 사기 검출
+### Project 1: Credit Card Fraud Detection
 **Objective**: 어떤 모델이 데이터를 축소하거나 증강하였을때 가장 뛰어난 검출능력을 보이는지 확인하였습니다.
 
 **Technologies Used**:
