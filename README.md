@@ -8,15 +8,15 @@
 **Objective**: 어떤 모델이 데이터를 축소하거나 증강하였을때 가장 뛰어난 검출능력을 보이는지 확인하였습니다.
 
 **Technologies Used**:
-- 차원축소: PCA, tSNE, UMAP
-- 차원증강: SMOTE, BorderLineSMOTE, ADASYN
-- 머신러닝모델: RandomForest, XGBoost, CatBoost, LightGBM
-- 딥러닝모델: TensorFlow, Pytorch 
+- Dimensionality Reduction: PCA, tSNE, UMAP
+- Dimensionality Augmentation: SMOTE, BorderLineSMOTE, ADASYN
+- Machine Learning Models: RandomForest, XGBoost, CatBoost, LightGBM
+- Deep Learning Models: TensorFlow, Pytorch 
 
 **Key Results**:
 Dimesionality Reduction과 Augmentation 중에 뭐가 더 모델의 성능에 좋을까 비교해보기 위해서 
-다양한 머신러닝 모델과 딥러닝 모델을 활용하였다. 
-그 결과 어떤 방식으로 어떤 모델을 사용했을때 가장 성능이 좋은지 순위표를 만들 수 있었다.
+다양한 머신러닝 모델과 딥러닝 모델을 활용하였습니다. 
+그 결과 어떤 방식으로 어떤 모델을 사용했을때 가장 성능이 좋은지 순위표를 만들 수 있었습니다.
 
 url: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%20Detection
 
@@ -26,7 +26,7 @@ url: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%2
 
 ### Project 2: YOLOv10 Pretrained model vs Custom model
 
-**Objective**: Pretrained YOLOv10 model과 Custom YOLOv10 model 중 어떤 것이 더 성능이 좋은지 비교합니다.
+**Objective**: Pretrained YOLOv10과 Custom YOLOv10중 어떤 것이 더 성능이 좋은지 비교합니다.
 
 **Technologies Used**:
 
