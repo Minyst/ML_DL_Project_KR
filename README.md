@@ -18,7 +18,7 @@ Dimesionality Reduction과 Augmentation 중에 뭐가 더 모델의 성능에 �
 다양한 머신러닝 모델과 딥러닝 모델을 활용하였습니다. 
 그 결과 어떤 방식으로 어떤 모델을 사용했을때 가장 성능이 좋은지 순위표를 만들 수 있었습니다.
 
-url: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%20Detection
+URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%20Detection
 
 
 
