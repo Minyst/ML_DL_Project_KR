@@ -30,8 +30,8 @@ URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%2
 
 **Technologies Used**:
 
-- 모델: YOLOv10
-- 패키지: ultralytics, supervision, cv2
+- Model: YOLOv10
+- Package: ultralytics, supervision, cv2
 
 **Key Results**:
 비디오를 캡처한 후 여러 프레임을 생성하였습니다. <br/>
