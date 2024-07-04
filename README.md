@@ -37,7 +37,7 @@ URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%2
 비디오를 캡처한 후 여러 프레임을 생성하였습니다. <br/>
 각 프레임을 모델로 학습시킨 후, 이러한 프레임들을 다시 하나의 비디오로 만들었습니다. <br/>
 Pretrained model의 경우, 모델을 그대로 사용하여 예측을 수행했습니다. <br/>
-Custom model의 경우, 기존의 YOLOv10 가중치를 사용하여 준비된 데이터를 학습시키고, <br/>
+하지만 Custom model의 경우, 기존의 YOLOv10 가중치를 사용하여 준비된 데이터를 학습시키고, <br/>
 그 결과 나온 최고의 가중치를 최종 모델의 가중치로 선택한 후 이를 예측에 사용했습니다. <br/>
 이 과정은 릴레이 레이스와 비슷합니다.
 
