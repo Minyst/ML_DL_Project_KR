@@ -16,7 +16,7 @@
 - 딥러닝모델: TensorFlow, Pytorch 
 
 **주요 결과**:
-dimesionality reduction과 augmentation 중에 뭐가 더 모델의 성능에 좋을까 비교해보기 위해서 
+Dimesionality Reduction과 Augmentation 중에 뭐가 더 모델의 성능에 좋을까 비교해보기 위해서 
 다양한 머신러닝 모델과 딥러닝 모델을 활용하였다. 
 그 결과 어떤 방식으로 어떤 모델을 사용했을때 가장 성능이 좋은지 순위표를 만들 수 있었다.
 
@@ -26,19 +26,28 @@ url: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%2
 
 ---
 
-### 프로젝트 2: 판매 데이터 분석
-**목표**: 판매 데이터를 분석하여 트렌드와 인사이트 도출.
+### 프로젝트 2: YOLOv10 Pretrained 모델 vs Custom 모델
 
-**사용 기술**:
-- Python (NumPy, Pandas, Seaborn)
-- Power BI
-- Excel
+**목적**: Pretrained YOLOv10 모델과 Custom YOLOv10 모델 중 어떤 것이 더 성능이 좋은지 비교합니다.
+
+**사용된 기술**:
+
+- 모델: YOLOv10
+- 패키지: ultralytics, supervision, cv2
 
 **주요 결과**:
-- 휴가 시즌 동안 판매 증가 확인.
-- 상위 성과 제품 및 지역 식별.
+비디오를 캡처한 후 여러 프레임을 생성하였습니다. <br/>
+각 프레임을 모델로 학습시킨 후, 이러한 프레임들을 다시 하나의 비디오로 만들었습니다. <br/>
+Pretrained 모델의 경우, 모델을 그대로 사용하여 예측을 수행했습니다. <br/>
+Custom 모델의 경우, 기존의 YOLOv10 가중치를 사용하여 준비된 데이터를 학습시키고, <br/>
+그 결과 나온 최고의 가중치를 최종 모델의 가중치로 선택한 후 이를 예측에 사용했습니다. <br/>
+이 과정은 릴레이 레이스와 비슷합니다.
 
+사전 학습 모델과 커스텀 모델을 비교했을 때, 상당한 차이가 있었습니다. <br/>
+다양한 클래스의 이미지로 지속적으로 학습된 커스텀 모델은 자동으로 인식하는 사전 학습 모델보다 <br/>
+클래스 예측 범위가 더 넓었지만, 정확도는 사전 학습 모델에 비해 훨씬 낮았습니다.
 
+URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/YOLOv10%20Pretrained%20vs%20Custom
 
 ---
 
