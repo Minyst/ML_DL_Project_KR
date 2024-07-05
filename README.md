@@ -45,7 +45,7 @@ Pretrained model과 Custom model을 비교했을 때, 상당한 차이가 있었
 다양한 클래스의 이미지로 지속적으로 학습된 Custom model은 자동으로 인식하는 Pretrained model보다 <br/>
 클래스 예측 범위가 더 넓었지만, 정확도는 Pretrained model에 비해 훨씬 낮았습니다.
 
-URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/YOLOv10%20Pretrained%20vs%20Custom
+URL: https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/YOLO
 
 ---
 
