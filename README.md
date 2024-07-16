@@ -68,7 +68,7 @@ detectron2는 yolov10이랑 거의 똑같지만 차이점이 두가지 있습니
 detectron은 차이가 느껴지지 않았습니다.
 
 **URL** <br/>
-https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/YOLO
+https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/Detectron
 
 ---
 
@@ -92,7 +92,7 @@ RVC 모델을 활용해 한 가수의 목소리로 다른 가수의 노래를 �
 디테일한 설정도 할 수 있는데 전문가가 있다면 더욱 더 싱크로율과 완성도가 높아질 것으로 기대됩니다.
 
 **URL** <br/>
-https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
+https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/AI%20Cover
 
 ---
 
@@ -110,7 +110,7 @@ Tensorflow와 Pytorch로 복잡한 CNN 구성해보기
 Tensorflow와 Pytorch로 할 수 있는 CNN의 모든 과정을 담았습니다.
 
 **URL** <br/>
-https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
+https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/CNN
 
 ---
 
