@@ -52,28 +52,65 @@ https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/YOLO
 
 ---
 
-### Project 2: Detectron2 Pretrained model vs Custom model
+### Project 3: Detectron2 Pretrained model vs Custom model
 
 **Objective** <br/>
-Pretrained YOLOv10과 Custom YOLOv10중 어떤 것이 더 성능이 좋은지 비교합니다.
+Pretrained detectron2와 Custom detectron2중 어떤 것이 더 성능이 좋은지 비교합니다.
 
 **Technologies Used** <br/>
-
-- Model: YOLOv10
-- Package: ultralytics, supervision, cv2
+- Model: Detectron2
+- Package: detectron2, cv2
 
 **Key Results** <br/>
-detectron2는 yolov10이랑 거의 똑같지만 차이점이 두가지 있다.
-첫번째, detectron2는 yolov10과 달리 faster_rcnn weights를 사용한다.
+detectron2는 yolov10이랑 거의 똑같지만 차이점이 두가지 있습니다.
+첫번째, detectron2는 yolov10과 달리 faster_rcnn weights를 사용합니다.
 두번째, yolov10에서는 pretrained와 custom이 결과가 조금 다르게 나왔지만 
-detectron은 차이가 느껴지지 않는다.
-
-Pretrained model과 Custom model을 비교했을 때, 상당한 차이가 있었습니다. <br/>
-다양한 클래스의 이미지로 지속적으로 학습된 Custom model은 자동으로 인식하는 Pretrained model보다 <br/>
-클래스 예측 범위가 더 넓었지만, 정확도는 Pretrained model에 비해 훨씬 낮았습니다.
+detectron은 차이가 느껴지지 않았습니다.
 
 **URL** <br/>
 https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/YOLO
+
+---
+
+### Project 4: AI Cover - RVC
+
+**Objective** <br/>
+RVC 모델을 활용해 한 가수의 목소리로 다른 가수의 노래를 부르게 하는 것 
+
+**Technologies Used** <br/>
+- Model: RVC
+
+**Key Results** <br/>
+이 프로젝트는 5가지 과정으로 나누어서 설명할 수 있습니다.
+첫번째, 다운받아온 youtube music을 음성과 배경음악으로 split합니다.
+두번째, 모델이 더 잘 학습할 수 있도록 음성을 여러개로 slice합니다.
+세번째, RVC_pretrained를  download하고.
+네번째, train합니다.
+다섯번째, 가수가 다른 노래를 부르는 음악파일을 생성합니다.
+
+생각보다 자연스러운 음악이 생성되어서 놀라웠습니다.
+디테일한 설정도 할 수 있는데 전문가가 있다면 더욱 더 싱크로율과 완성도가 높아질 것으로 기대됩니다.
+
+**URL** <br/>
+https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
+
+---
+
+### Project 5: CNN - CIFAR-10
+
+**Objective** <br/>
+CIFAR-10 데이터를 활용해서 
+Tensorflow와 Pytorch로 복잡한 CNN 구성해보기
+
+**Technologies Used** <br/>
+- Models : TensorFlow, Pytorch
+- CNN Process : Data Augmentation, Conv2d, Padding, Batch Normalization, Pooling, Dropout, Flatten 
+
+**Key Results** <br/>
+Tensorflow와 Pytorch로 할 수 있는 CNN의 모든 과정을 담았습니다.
+
+**URL** <br/>
+https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
 
 ---
 
