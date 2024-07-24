@@ -118,8 +118,8 @@ https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/CNN
 
 - **프로그래밍 언어**: Python, SQL
 - **데이터 시각화**: Matplotlib, Seaborn, Tableau
-- **머신 러닝 & 딥러닝**: Scikit-Learn, TensorFlow, Pytorch
-- **데이터 전처**: Pandas, NumPy
+- **머신러닝 & 딥러닝**: Scikit-Learn, TensorFlow, Pytorch
+- **데이터 전처리**: Pandas, NumPy
 - **데이터베이스**: MySQL
 - **도구**: Jupyter Notebook
 
@@ -133,7 +133,7 @@ https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/CNN
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" width="120" height="30"/>
 </p>
 
----
+
 
 
 
