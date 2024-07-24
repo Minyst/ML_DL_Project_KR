@@ -141,7 +141,7 @@ https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/CNN
 
 - **Email**: [username@example.com](mailto:username@example.com)
 - **LinkedIn**: [linkedin.com/in/username](https://www.linkedin.com/in/username)
-- **GitHub**: [github.com/Minyst](https://github.com/Minyst)
+- **GitHub**: https://github.com/Minyst
 
 ---
 
