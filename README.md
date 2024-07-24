@@ -116,12 +116,12 @@ https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/CNN
 
 ## 📈 Skills
 
-- **프로그래밍 언어**: Python, SQL
-- **데이터 시각화**: Matplotlib, Seaborn, Tableau
-- **머신러닝 & 딥러닝**: Scikit-Learn, TensorFlow, Pytorch
-- **데이터 전처리**: Pandas, NumPy
-- **데이터베이스**: MySQL
-- **도구**: Jupyter Notebook
+- **Programming Languages**: Python
+- **Data Preprocessing**: Pandas, NumPy
+- **Data Visualization**: Matplotlib
+- **Machine Learning & Deep Learning**: Scikit-Learn, TensorFlow, Pytorch, OpenCV
+- **Databases**: 
+- **Tools**: Jupyter Notebook, Google Colab
 
 ---
 
