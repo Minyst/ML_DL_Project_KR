@@ -135,14 +135,6 @@ https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/CNN
 
 ---
 
-## 📫 Contact
 
-문의 사항이나 협업 기회가 있으시면 언제든지 연락해 주세요:
-
-- **Email**: [username@example.com](mailto:username@example.com)
-- **LinkedIn**: [linkedin.com/in/username](https://www.linkedin.com/in/username)
-- **GitHub**: https://github.com/Minyst
-
----
 
 
