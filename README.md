@@ -114,33 +114,31 @@ https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/CNN
 
 ---
 
-## 📈 기술
+## 📈 Skills
 
 - **프로그래밍 언어**: Python, SQL
 - **데이터 시각화**: Matplotlib, Seaborn, Tableau
 - **머신 러닝 & 딥러닝**: Scikit-Learn, TensorFlow, Pytorch
-- **데이터 조작**: Pandas, NumPy
+- **데이터 전처**: Pandas, NumPy
 - **데이터베이스**: MySQL
 - **도구**: Jupyter Notebook
 
 ---
 
-## 🛠️ 도구 및 기술
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
+## 🛠️ Tools & Technologies
 
 
 ---
 
-## 📫 연락처
+
+
+---
+
+## 📫 Contact
 
 문의 사항이나 협업 기회가 있으시면 언제든지 연락해 주세요:
 
-- **이메일**: [username@example.com](mailto:username@example.com)
+- **Email**: [username@example.com](mailto:username@example.com)
 - **LinkedIn**: [linkedin.com/in/username](https://www.linkedin.com/in/username)
 - **GitHub**: [github.com/username](https://github.com/username)
 
