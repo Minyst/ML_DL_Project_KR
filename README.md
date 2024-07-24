@@ -1,4 +1,4 @@
-# 🎓 Data Analyst Portfolio
+# 🎓 Data Scientist Portfolio
 
 ---
 
@@ -128,7 +128,6 @@ https://github.com/Minyst/ML_DL_Portfolio_KR/tree/main/CNN
 ## 🛠️ 도구 및 기술
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
